@@ -1,15 +1,7 @@
-////////////// ME766 PROJECT////////////////////////////////
+
 
 ////////////// Parallelization of PageRank Algorithm using CUDA and OpenMp  /////////////////////////
 
-//// Instructor:
-//// Shivasubramanian Gopalakrishnan 
-
-//// Submitted by :
-//// Arpit Tiwari
-//// Ansh Thamke 
-//// Raj Ingole 
-//// Sumit Bhong
 
 
 #include <iostream>
