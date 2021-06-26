@@ -14,4 +14,8 @@ Here is the sample Barabasi Graph for N=10 nodes:
 
 
 
-There is a significant speed up in the algorithm after parellisation which could be seen by the time study.
+There is a significant speed up in the algorithm after parellisation which could be seen by the following time study analysis.
+
+Shown below is the comparative time study graphs by varying the size of the network(Nodes) of various parellisation techniques such as OpenMP,CUDA.
+
+<img src="https://user-images.githubusercontent.com/82596857/123517976-85fe4d80-d6c1-11eb-87c2-930079688a0b.png" width="500" height="320"/> <img src="https://user-images.githubusercontent.com/82596857/123517995-9dd5d180-d6c1-11eb-964e-180951545c94.png" width="450" height="320"/> 
