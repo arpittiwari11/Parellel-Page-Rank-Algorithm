@@ -10,7 +10,7 @@ I implemented the Page rank algorithm on the Barabasi Graphs from the Networkx l
 
 Here is the sample Barabasi Graph for N=10 nodes:
 
-<img src="https://user-images.githubusercontent.com/82596857/123515741-5564e680-d6b6-11eb-86de-9d183f4110e4.png" width="500" >
+<img src="https://user-images.githubusercontent.com/82596857/123515741-5564e680-d6b6-11eb-86de-9d183f4110e4.png" width="400" >
 
 
 
